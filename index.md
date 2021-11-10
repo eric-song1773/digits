@@ -69,48 +69,48 @@ The following sections describe the major features of this template.
 
 ### Landing Page
 
-<img src="doc/digits-landing.png">
+<img src="doc/digits-landing.PNG">
 
 The User will be introduced with landing page, which description the general purpose of this application.
 
 ### Register
 
-<img src="doc/digits-register.png">
+<img src="doc/digits-register.PNG">
 
 New account can be created using "Register" feature.
 
 ### Sign-in
 
-<img src="doc/digits-sign_in.png">
+<img src="doc/digits-sign_in.PNG">
 
 After an account has been created, user can sign in using "Login to your account" page.
 
 ### User Home Page
 
-<img src="doc/digits-userpage.png">
+<img src="doc/digits-userpage.PNG">
 
 After user logs in using valid account, the user will be greeted with page similar to landing page, but the user can now interact with different features in NavBar. 
 
 ### List Contacts
 
-<img src="doc/digits-listcontact.png">
+<img src="doc/digits-listcontact.PNG">
 
 By Clicking "List Contacts", user will be greeted with group of contacts. Users can also leave a timestamped note underneath the contact.
 
 ### Add Contact
 
-<img src="doc/digits-addcontact.png">
+<img src="doc/digits-addcontact.PNG">
 
 By Clicking "Add Contact", user can add a new contact into the list of contacts. When finished, press "submit" to add a contact. 
 
 ### Edit Contact
 
-<img src="doc/digits-editcontact.png">
+<img src="doc/digits-editcontact.PNG">
 
 User is also allowed to edit the contact as much as they want using "Edit Contact" feature. After all changes are made, press submit to save changes.  
 
 ### Admin Mode
 
-<img src="doc/digits-admin.png">
+<img src="doc/digits-admin.PNG">
 
 If the account is considered as admin account, another tab is created in the NavBar, where it can access all contacts created by all users. 
