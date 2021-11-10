@@ -87,6 +87,10 @@ After user logs in using valid account, the user will be greeted with page simil
 
 By Clicking "List Contacts", user will be greeted with group of contacts. Users can also leave a timestamped note underneath the contact.
 
+### Add Contact
+
+By Clicking "Add Contact", user can add a new contact into the list of contacts. When finished, press "submit" to add a contact. 
+
 ### Edit Contacts
 
 User is also allowed to edit the contact as much as they want using "Edit Contact" feature. After all changes are made, press submit to save changes.  
