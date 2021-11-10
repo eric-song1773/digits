@@ -19,7 +19,7 @@ const formSchema = new SimpleSchema({
 const bridge = new SimpleSchema2Bridge(formSchema);
 
 /** Renders the Page for adding a document. */
-class AddStuff extends React.Component {
+class AddContact extends React.Component {
 
   // On submit, insert the data.
   submit(data, formRef) {
@@ -60,4 +60,4 @@ class AddStuff extends React.Component {
   }
 }
 
-export default AddStuff;
+export default AddContact;
