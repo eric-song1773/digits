@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/landing-page.png)
+<img src="doc/digits-landing.png">
 
 Digit is an application that allows users to:
 
@@ -69,32 +69,48 @@ The following sections describe the major features of this template.
 
 ### Landing Page
 
+<img src="doc/digits-landing.png">
+
 The User will be introduced with landing page, which description the general purpose of this application.
 
 ### Register
+
+<img src="doc/digits-register.png">
 
 New account can be created using "Register" feature.
 
 ### Sign-in
 
+<img src="doc/digits-sign_in.png">
+
 After an account has been created, user can sign in using "Login to your account" page.
 
 ### User Home Page
+
+<img src="doc/digits-userpage.png">
 
 After user logs in using valid account, the user will be greeted with page similar to landing page, but the user can now interact with different features in NavBar. 
 
 ### List Contacts
 
+<img src="doc/digits-listcontact.png">
+
 By Clicking "List Contacts", user will be greeted with group of contacts. Users can also leave a timestamped note underneath the contact.
 
 ### Add Contact
 
+<img src="doc/digits-addcontact.png">
+
 By Clicking "Add Contact", user can add a new contact into the list of contacts. When finished, press "submit" to add a contact. 
 
-### Edit Contacts
+### Edit Contact
+
+<img src="doc/digits-editcontact.png">
 
 User is also allowed to edit the contact as much as they want using "Edit Contact" feature. After all changes are made, press submit to save changes.  
 
 ### Admin Mode
+
+<img src="doc/digits-admin.png">
 
 If the account is considered as admin account, another tab is created in the NavBar, where it can access all contacts created by all users. 
